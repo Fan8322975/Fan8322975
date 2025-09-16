@@ -1,10 +1,13 @@
-- 👋 Hi, I’m @Fan8322975
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+# 前期糖尿病缓解中文网页
 
-<!---
-Fan8322975/Fan8322975 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+此仓库包含一个静态网页，用中文介绍《胰岛β细胞功能恢复在前期糖尿病缓解中的核心作用》研究成果。
+
+## 运行方式
+
+- 直接打开 `index.html` 即可在浏览器中查看网页。
+- 或在项目根目录运行:
+  ```bash
+  python3 -m http.server
+  ```
+  然后访问 <http://localhost:8000>。
+

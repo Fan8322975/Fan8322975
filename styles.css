@@ -1,0 +1,55 @@
+body {
+  font-family: 'Noto Sans SC', sans-serif;
+  line-height: 1.6;
+  margin: 0;
+  padding: 0;
+  background: #f7f7f7;
+  color: #333;
+}
+
+header {
+  background: #006d77;
+  color: #fff;
+  padding: 2rem 1rem;
+  text-align: center;
+}
+
+header h1 {
+  margin: 0;
+  font-size: 2rem;
+}
+
+.authors {
+  margin-top: 0.5rem;
+  font-style: italic;
+}
+
+main {
+  max-width: 800px;
+  margin: 2rem auto;
+  background: #fff;
+  padding: 2rem;
+  box-shadow: 0 0 10px rgba(0,0,0,0.1);
+}
+
+section + section {
+  margin-top: 2rem;
+}
+
+h2 {
+  color: #006d77;
+  border-bottom: 2px solid #83c5be;
+  padding-bottom: 0.3rem;
+}
+
+h3 {
+  color: #083d77;
+}
+
+footer {
+  text-align: center;
+  padding: 1rem;
+  background: #e0fbfc;
+  margin-top: 2rem;
+  font-size: 0.9rem;
+}
